@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\1st_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A36A2E-3B2D-4907-8F0D-A68896DA6B69}|1st_app\\1st_app.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\1st_app\\1st_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A36A2E-3B2D-4907-8F0D-A68896DA6B69}|1st_app\\1st_app.csproj|solutionrelative:1st_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\1st_app\\1st_app\\Program.cs",
+              "RelativeDocumentMoniker": "1st_app\\Program.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\1st_app\\1st_app\\Program.cs",
+              "RelativeToolTip": "1st_app\\Program.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwJkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:06:54.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

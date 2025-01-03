@@ -1,0 +1,76 @@
+
+.codegpt
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]ebug|Release/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+bin/
+obj/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# Windows Image file
+Thumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+.idea/
+.vscode/
+
+# Rider/IntelliJ
+.idea/
+
+# Node.js related
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core
+wwwroot/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS for Mac
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# NUGET
+.nuget/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs

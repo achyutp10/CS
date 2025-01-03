@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D62455E-8D44-42FB-BFB1-818823502DA1}|ExceptionHandeling\\ExceptionHandeling.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\exceptionhandeling\\debugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D62455E-8D44-42FB-BFB1-818823502DA1}|ExceptionHandeling\\ExceptionHandeling.csproj|solutionrelative:exceptionhandeling\\debugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D62455E-8D44-42FB-BFB1-818823502DA1}|ExceptionHandeling\\ExceptionHandeling.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\exceptionhandeling\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D62455E-8D44-42FB-BFB1-818823502DA1}|ExceptionHandeling\\ExceptionHandeling.csproj|solutionrelative:exceptionhandeling\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D62455E-8D44-42FB-BFB1-818823502DA1}|ExceptionHandeling\\ExceptionHandeling.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\exceptionhandeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D62455E-8D44-42FB-BFB1-818823502DA1}|ExceptionHandeling\\ExceptionHandeling.csproj|solutionrelative:exceptionhandeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\taskk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\taskk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\functionaloverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\functionaloverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\passingbyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\passingbyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\parameterss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\parameterss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\variablescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\variablescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\returntypemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\returntypemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\function_method\\voidmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC0782-C4C2-46F0-B11C-F880B58103A1}|Function_Method\\Function_Method.csproj|solutionrelative:function_method\\voidmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\controlflow\\datastructures\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\datastructures\\dictionary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\dictionary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\datastructures\\list1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\list1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\datastructures\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A863D6-CEE6-41FA-90D2-D79267F98BF1}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88CB1F9-062A-46CE-AD9F-333E5C9EA160}|StringFunctions\\StringFunctions.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\stringfunctions\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88CB1F9-062A-46CE-AD9F-333E5C9EA160}|StringFunctions\\StringFunctions.csproj|solutionrelative:stringfunctions\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88CB1F9-062A-46CE-AD9F-333E5C9EA160}|StringFunctions\\StringFunctions.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\stringfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88CB1F9-062A-46CE-AD9F-333E5C9EA160}|StringFunctions\\StringFunctions.csproj|solutionrelative:stringfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\controlflow\\while_do_while.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|solutionrelative:controlflow\\while_do_while.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88CB1F9-062A-46CE-AD9F-333E5C9EA160}|StringFunctions\\StringFunctions.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\stringfunctions\\stringfn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88CB1F9-062A-46CE-AD9F-333E5C9EA160}|StringFunctions\\StringFunctions.csproj|solutionrelative:stringfunctions\\stringfn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\controlflow\\ternaryop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|solutionrelative:controlflow\\ternaryop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\controlflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|solutionrelative:controlflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\controlflow\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|solutionrelative:controlflow\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\controlflow\\forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|solutionrelative:controlflow\\forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\controlflow\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA500B7E-72C3-4154-B697-BE911EA3D421}|ControlFlow\\ControlFlow.csproj|solutionrelative:controlflow\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Debugging.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ExceptionHandeling\\Debugging.cs",
+              "RelativeDocumentMoniker": "ExceptionHandeling\\Debugging.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ExceptionHandeling\\Debugging.cs",
+              "RelativeToolTip": "ExceptionHandeling\\Debugging.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv3AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:46:20.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ExceptionHandeling\\Task.cs",
+              "RelativeDocumentMoniker": "ExceptionHandeling\\Task.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ExceptionHandeling\\Task.cs",
+              "RelativeToolTip": "ExceptionHandeling\\Task.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwKIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:35:33.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ExceptionHandeling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandeling\\Program.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ExceptionHandeling\\Program.cs",
+              "RelativeToolTip": "ExceptionHandeling\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwFcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:03:34.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taskk.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Taskk.cs",
+              "RelativeDocumentMoniker": "Function_Method\\Taskk.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Taskk.cs",
+              "RelativeToolTip": "Function_Method\\Taskk.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAIwBcBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:48:38.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunctionalOverloading.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\FunctionalOverloading.cs",
+              "RelativeDocumentMoniker": "Function_Method\\FunctionalOverloading.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\FunctionalOverloading.cs",
+              "RelativeToolTip": "Function_Method\\FunctionalOverloading.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:34:47.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassingByReference.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\PassingByReference.cs",
+              "RelativeDocumentMoniker": "Function_Method\\PassingByReference.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\PassingByReference.cs",
+              "RelativeToolTip": "Function_Method\\PassingByReference.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:55:52.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Task.cs",
+              "RelativeDocumentMoniker": "Function_Method\\Task.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Task.cs",
+              "RelativeToolTip": "Function_Method\\Task.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAADwv6IAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:27:50.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parameterss.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Parameterss.cs",
+              "RelativeDocumentMoniker": "Function_Method\\Parameterss.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Parameterss.cs",
+              "RelativeToolTip": "Function_Method\\Parameterss.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAgwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:49:47.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReturnTypeMethods.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\ReturnTypeMethods.cs",
+              "RelativeDocumentMoniker": "Function_Method\\ReturnTypeMethods.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\ReturnTypeMethods.cs",
+              "RelativeToolTip": "Function_Method\\ReturnTypeMethods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:14:48.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VoidMethods.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\VoidMethods.cs",
+              "RelativeDocumentMoniker": "Function_Method\\VoidMethods.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\VoidMethods.cs",
+              "RelativeToolTip": "Function_Method\\VoidMethods.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:09:12.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VariableScope.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\VariableScope.cs",
+              "RelativeDocumentMoniker": "Function_Method\\VariableScope.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\VariableScope.cs",
+              "RelativeToolTip": "Function_Method\\VariableScope.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:59:49.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Program.cs",
+              "RelativeDocumentMoniker": "Function_Method\\Program.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\Function_Method\\Program.cs",
+              "RelativeToolTip": "Function_Method\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:06:16.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Task.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Task.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Task.cs",
+              "RelativeToolTip": "DataStructures\\Task.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAIwBIBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:34:20.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dictionary1.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Dictionary1.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Dictionary1.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Dictionary1.cs",
+              "RelativeToolTip": "DataStructures\\Dictionary1.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAIwIAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:56:09.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List1.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\List1.cs",
+              "RelativeDocumentMoniker": "DataStructures\\List1.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\List1.cs",
+              "RelativeToolTip": "DataStructures\\List1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwIIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:33:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Arrays.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Arrays.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Arrays.cs",
+              "RelativeToolTip": "DataStructures\\Arrays.cs",
+              "ViewState": "AgIAAN0BAAAAAAAAAAAcwPMBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T03:29:17.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\DataStructures\\Program.cs",
+              "RelativeToolTip": "DataStructures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T03:28:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\StringFunctions\\Task.cs",
+              "RelativeDocumentMoniker": "StringFunctions\\Task.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\StringFunctions\\Task.cs",
+              "RelativeToolTip": "StringFunctions\\Task.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAIwIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T15:12:55.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StringFn.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\StringFunctions\\StringFn.cs",
+              "RelativeDocumentMoniker": "StringFunctions\\StringFn.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\StringFunctions\\StringFn.cs",
+              "RelativeToolTip": "StringFunctions\\StringFn.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAkwFUBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:14:11.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\StringFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "StringFunctions\\Program.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\StringFunctions\\Program.cs",
+              "RelativeToolTip": "StringFunctions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:13:22.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TernaryOP.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\TernaryOP.cs",
+              "RelativeDocumentMoniker": "ControlFlow\\TernaryOP.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\TernaryOP.cs",
+              "RelativeToolTip": "ControlFlow\\TernaryOP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:10:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "While_Do_While.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\While_Do_While.cs",
+              "RelativeDocumentMoniker": "ControlFlow\\While_Do_While.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\While_Do_While.cs",
+              "RelativeToolTip": "ControlFlow\\While_Do_While.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:24:25.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ForLoop.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\ForLoop.cs",
+              "RelativeDocumentMoniker": "ControlFlow\\ForLoop.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\ForLoop.cs",
+              "RelativeToolTip": "ControlFlow\\ForLoop.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:49:44.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\Switch.cs",
+              "RelativeDocumentMoniker": "ControlFlow\\Switch.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\Switch.cs",
+              "RelativeToolTip": "ControlFlow\\Switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:33:40.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\Task1.cs",
+              "RelativeDocumentMoniker": "ControlFlow\\Task1.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\Task1.cs",
+              "RelativeToolTip": "ControlFlow\\Task1.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAAAB0BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:38:20.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\Program.cs",
+              "RelativeDocumentMoniker": "ControlFlow\\Program.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\ControlFlow\\ControlFlow\\Program.cs",
+              "RelativeToolTip": "ControlFlow\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:26:56.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
