@@ -23,7 +23,6 @@ obj/
 *.msi
 *.msm
 *.msp
-*.vs
 
 # Windows Installer logs
 *.log

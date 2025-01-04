@@ -10,6 +10,8 @@ namespace OOP
     {
         static void Main(string[] args)
         {
+            //Class_Constructor.Main2();
+            Fields.Main3();
         }
     }
 }

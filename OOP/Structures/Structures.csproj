@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}</ProjectGuid>
+    <ProjectGuid>{5971F659-2874-40B7-B8FA-BE3308D65DB5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP</RootNamespace>
-    <AssemblyName>OOP</AssemblyName>
+    <RootNamespace>Structures</RootNamespace>
+    <AssemblyName>Structures</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class_Constructor.cs" />
-    <Compile Include="Fields.cs" />
-    <Compile Include="Method_Function.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Task2.cs" />
+    <Compile Include="Task_Box_Structure.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
