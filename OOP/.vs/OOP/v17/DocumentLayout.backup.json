@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\fields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\fields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\variablescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\variablescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\method_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\method_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\fields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\fields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\class_constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\class_constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5971F659-2874-40B7-B8FA-BE3308D65DB5}|Structures\\Structures.csproj|D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5971F659-2874-40B7-B8FA-BE3308D65DB5}|Structures\\Structures.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\structures\\task_box_structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5971F659-2874-40B7-B8FA-BE3308D65DB5}|Structures\\Structures.csproj|solutionrelative:structures\\task_box_structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\method_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\method_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|d:\\important\\coding\\1(all)impapp\\visual studio\\c# and dotnet\\c#\\oop\\oop\\class_constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB2AE98-CF6D-456E-95D7-22A7F8EBC1E9}|OOP\\OOP.csproj|solutionrelative:oop\\class_constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,12 +51,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Properties.cs",
+              "RelativeDocumentMoniker": "OOP\\Properties.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Properties.cs",
+              "RelativeToolTip": "OOP\\Properties.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwFMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:33:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VariableScope.cs",
+              "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\VariableScope.cs",
+              "RelativeDocumentMoniker": "OOP\\VariableScope.cs",
+              "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\VariableScope.cs",
+              "RelativeToolTip": "OOP\\VariableScope.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:49:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Fields.cs",
               "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Fields.cs",
               "RelativeDocumentMoniker": "OOP\\Fields.cs",
               "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Fields.cs",
               "RelativeToolTip": "OOP\\Fields.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA4wB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T07:21:36.683Z",
               "EditorCaption": ""
@@ -61,20 +95,20 @@
               "RelativeDocumentMoniker": "OOP\\Method_Function.cs",
               "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Method_Function.cs",
               "RelativeToolTip": "OOP\\Method_Function.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T06:33:23.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Task2.cs",
               "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Task2.cs",
               "RelativeDocumentMoniker": "OOP\\Task2.cs",
               "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Task2.cs",
               "RelativeToolTip": "OOP\\Task2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T06:20:55.702Z",
               "EditorCaption": ""
@@ -87,14 +121,14 @@
               "RelativeDocumentMoniker": "OOP\\Class_Constructor.cs",
               "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Class_Constructor.cs",
               "RelativeToolTip": "OOP\\Class_Constructor.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAywEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T05:53:12.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Task_Box_Structure.cs",
               "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\Structures\\Task_Box_Structure.cs",
               "RelativeDocumentMoniker": "Structures\\Task_Box_Structure.cs",
@@ -107,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\Structures\\Program.cs",
               "RelativeDocumentMoniker": "Structures\\Program.cs",
@@ -120,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
               "ToolTip": "D:\\Important\\Coding\\1(ALL)ImpApp\\Visual Studio\\C# and Dotnet\\C#\\OOP\\OOP\\Program.cs",
               "RelativeToolTip": "OOP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T13:18:52.519Z",
               "EditorCaption": ""

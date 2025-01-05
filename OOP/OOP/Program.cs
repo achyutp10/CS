@@ -11,7 +11,9 @@ namespace OOP
         static void Main(string[] args)
         {
             //Class_Constructor.Main2();
-            Fields.Main3();
+            //Fields.Main3();
+            //Task2.Main2();
+            //VariableScope.Main5();
         }
     }
 }
