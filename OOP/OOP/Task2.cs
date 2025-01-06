@@ -215,141 +215,273 @@ namespace OOP
         * 
         * What happens when you try to use: += -=
         */
-    class Box
+    //class Box
+    //{
+    //    private double length, height, depth;
+
+    //    public double Length { get => length; set => length = CheckRange(value); }
+    //    public double Height { get => height; set => height = CheckRange(value); }
+    //    public double Depth { get => depth; set => depth = CheckRange(value); }
+    //    public Box(double length, double height, double depth)
+    //    {
+    //        Length = length;
+    //        Height = height;
+    //        Depth = depth;
+    //    }
+
+    //    public double CheckRange(double value)
+    //    {
+    //        return value < 1 ? 1 : value;
+    //    }
+    //    public string ReturnDetails()
+    //    {
+    //        return $"Length: {length}\tHeight: {height}\tDepth: {depth}";
+    //    }
+
+    //    public static Box operator +(Box a, Box b)
+    //    {
+    //        /*double length = a.Length + b.Length;
+    //        double height = a.Height + b.Height;
+    //        double depth = a.Depth + b.Depth;
+
+    //        return new Box(a.Length + b.Length, a.Height + b.Height, a.Depth + b.Depth);*/
+    //        a.Length += b.Length;
+    //        a.Height += b.Height;
+    //        a.Length += b.Length;
+    //        return a;
+    //    }
+    //    public static Box operator -(Box a, Box b)
+    //    {
+    //        a.Length -= b.Length;
+    //        a.Height -= b.Height;
+    //        a.Length -= b.Length;
+    //        return a;
+
+    //        //return new Box(a.Length - b.Length, a.Height - b.Height, a.Depth - b.Depth);
+    //    }
+    //    public static Box operator ++(Box a)
+    //    {
+    //        a.Length++;
+    //        a.Height++;
+    //        a.Depth++;
+
+    //        return a;
+    //    }
+    //    public static Box operator --(Box a)
+    //    {
+    //        a.Length--;
+    //        a.Height--;
+    //        a.Depth--;
+
+    //        return a;
+    //    }
+    //    public static bool operator ==(Box a, Box b)
+    //    {
+    //        return a.Length == b.Length && a.Height == b.Height && a.Depth == b.Depth;
+    //    }
+    //    public static bool operator !=(Box a, Box b)
+    //    {
+    //        return a.Length != b.Length || a.Height != b.Height || a.Depth == b.Depth;
+    //    }
+    //    public static bool operator >(Box a, Box b)
+    //    {
+    //        return a.Length > b.Length && a.Height > b.Height && a.Depth > b.Depth;
+    //    }
+    //    public static bool operator >=(Box a, Box b)
+    //    {
+    //        return a.Length >= b.Length && a.Height >= b.Height && a.Depth >= b.Depth;
+    //    }
+    //    public static bool operator <(Box a, Box b)
+    //    {
+    //        return a.Length < b.Length && a.Height < b.Height && a.Depth < b.Depth;
+    //    }
+    //    public static bool operator <=(Box a, Box b)
+    //    {
+    //        return a.Length <= b.Length && a.Height <= b.Height && a.Depth <= b.Depth;
+    //    }
+    //    public static Box operator *(Box a, Box b)
+    //    {
+    //        /*a.Length *= b.Length;
+    //        a.Height *= b.Height;
+    //        a.Depth *= b.Depth;
+
+    //        return a;*/
+
+    //        return new Box(a.Length * b.Length,
+    //                    a.Height * b.Height,
+    //                    a.Depth * b.Depth);
+    //    }
+    //    public static Box operator /(Box a, Box b)
+    //    {
+    //        /*a.Length /= b.Length;
+    //        a.Height /= b.Height;
+    //        a.Depth /= b.Depth;
+
+    //        return a;*/
+
+    //        return new Box(a.Length / b.Length,
+    //                    a.Height / b.Height,
+    //                    a.Depth / b.Depth);
+    //    }
+
+
+
+    //    static void Main(string[] args)
+    //    {
+    //        Box box = new Box(200, 250, 300);
+    //        Box test = new Box(20, 26, 30);
+
+    //        Console.WriteLine(box > test);
+    //        Console.WriteLine(box >= test);
+
+    //        Console.WriteLine(box < test);
+    //        Console.WriteLine(box <= test);
+
+    //        Box divide = box / test;
+    //        Console.WriteLine(box.ReturnDetails());
+    //        Console.WriteLine(divide.ReturnDetails());
+
+    //        Box times = box * test;
+    //        Console.WriteLine(box.ReturnDetails());
+    //        Console.WriteLine(times.ReturnDetails());
+
+    //        Box minus = box - test;
+    //        Console.WriteLine(box.ReturnDetails());
+
+    //        box -= test;
+    //        Console.WriteLine(box.ReturnDetails());
+
+    //        Console.ReadLine();
+    //    }
+    //    static double ReadDouble(string message)
+    //    {
+    //        Console.Write($"Enter {message}: ");
+    //        return Convert.ToDouble(Console.ReadLine());
+    //    }
+    //}
+
+    class Program
     {
-        private double length, height, depth;
+        /*
+        * Continue project from Task6
+        * 
+        * Create an override for ToString() && Equals
+        * Update the current main output to use new output
+        * Test out the new and old equals and make sure it works
+        * 
+        * Can you remove *something* to make the code cleaner?
+        * Can you add something in to make it more type safe?
+        */
+        class Box
+        {
+            private double length, height, depth;
 
-        public double Length { get => length; set => length = CheckRange(value); }
-        public double Height { get => height; set => height = CheckRange(value); }
-        public double Depth { get => depth; set => depth = CheckRange(value); }
-        public Box(double length, double height, double depth)
-        {
-            Length = length;
-            Height = height;
-            Depth = depth;
-        }
+            public double Length { get => length; set => length = CheckRange(value); }
+            public double Height { get => height; set => height = CheckRange(value); }
+            public double Depth { get => depth; set => depth = CheckRange(value); }
+            public Box(double length, double height, double depth)
+            {
+                Length = length;
+                Height = height;
+                Depth = depth;
+            }
 
-        public double CheckRange(double value)
-        {
-            return value < 1 ? 1 : value;
-        }
-        public string ReturnDetails()
-        {
-            return $"Length: {length}\tHeight: {height}\tDepth: {depth}";
-        }
+            public double CheckRange(double value)
+            {
+                return value < 1 ? 1 : value;
+            }
+            public static Box operator +(Box a, Box b)
+            {
+                a.Length += b.Length;
+                a.Height += b.Height;
+                a.Length += b.Length;
+                return a;
+            }
+            public static Box operator -(Box a, Box b)
+            {
+                a.Length -= b.Length;
+                a.Height -= b.Height;
+                a.Length -= b.Length;
+                return a;
+            }
+            public static Box operator ++(Box a)
+            {
+                a.Length++;
+                a.Height++;
+                a.Depth++;
 
-        public static Box operator +(Box a, Box b)
-        {
-            /*double length = a.Length + b.Length;
-            double height = a.Height + b.Height;
-            double depth = a.Depth + b.Depth;
+                return a;
+            }
+            public static Box operator --(Box a)
+            {
+                a.Length--;
+                a.Height--;
+                a.Depth--;
 
-            return new Box(a.Length + b.Length, a.Height + b.Height, a.Depth + b.Depth);*/
-            a.Length += b.Length;
-            a.Height += b.Height;
-            a.Length += b.Length;
-            return a;
-        }
-        public static Box operator -(Box a, Box b)
-        {
-            a.Length -= b.Length;
-            a.Height -= b.Height;
-            a.Length -= b.Length;
-            return a;
+                return a;
+            }
+            public static bool operator ==(Box a, Box b)
+            {
+                return a.Length == b.Length && a.Height == b.Height && a.Depth == b.Depth;
+            }
+            public static bool operator !=(Box a, Box b)
+            {
+                return a.Length != b.Length || a.Height != b.Height || a.Depth == b.Depth;
+            }
+            public static bool operator >(Box a, Box b)
+            {
+                return a.Length > b.Length && a.Height > b.Height && a.Depth > b.Depth;
+            }
+            public static bool operator >=(Box a, Box b)
+            {
+                return a.Length >= b.Length && a.Height >= b.Height && a.Depth >= b.Depth;
+            }
+            public static bool operator <(Box a, Box b)
+            {
+                return a.Length < b.Length && a.Height < b.Height && a.Depth < b.Depth;
+            }
+            public static bool operator <=(Box a, Box b)
+            {
+                return a.Length <= b.Length && a.Height <= b.Height && a.Depth <= b.Depth;
+            }
+            public static Box operator *(Box a, Box b)
+            {
+                return new Box(a.Length * b.Length,
+                            a.Height * b.Height,
+                            a.Depth * b.Depth);
+            }
+            public static Box operator /(Box a, Box b)
+            {
+                return new Box(a.Length / b.Length,
+                            a.Height / b.Height,
+                            a.Depth / b.Depth);
+            }
+            public override string ToString()
+            {
+                return $"Length: {length}\tHeight: {height}\tDepth: {depth}";
+            }
+            public override bool Equals(object obj)
+            {
+                if (obj is Box)
+                {
+                    Box box = obj as Box; // run time
+                    return Length == box.Length &&
+                        Height == box.Height &&
+                        Depth == box.Depth;
+                }
 
-            //return new Box(a.Length - b.Length, a.Height - b.Height, a.Depth - b.Depth);
+                return false;
+            }
         }
-        public static Box operator ++(Box a)
-        {
-            a.Length++;
-            a.Height++;
-            a.Depth++;
-
-            return a;
-        }
-        public static Box operator --(Box a)
-        {
-            a.Length--;
-            a.Height--;
-            a.Depth--;
-
-            return a;
-        }
-        public static bool operator ==(Box a, Box b)
-        {
-            return a.Length == b.Length && a.Height == b.Height && a.Depth == b.Depth;
-        }
-        public static bool operator !=(Box a, Box b)
-        {
-            return a.Length != b.Length || a.Height != b.Height || a.Depth == b.Depth;
-        }
-        public static bool operator >(Box a, Box b)
-        {
-            return a.Length > b.Length && a.Height > b.Height && a.Depth > b.Depth;
-        }
-        public static bool operator >=(Box a, Box b)
-        {
-            return a.Length >= b.Length && a.Height >= b.Height && a.Depth >= b.Depth;
-        }
-        public static bool operator <(Box a, Box b)
-        {
-            return a.Length < b.Length && a.Height < b.Height && a.Depth < b.Depth;
-        }
-        public static bool operator <=(Box a, Box b)
-        {
-            return a.Length <= b.Length && a.Height <= b.Height && a.Depth <= b.Depth;
-        }
-        public static Box operator *(Box a, Box b)
-        {
-            /*a.Length *= b.Length;
-            a.Height *= b.Height;
-            a.Depth *= b.Depth;
-
-            return a;*/
-
-            return new Box(a.Length * b.Length,
-                        a.Height * b.Height,
-                        a.Depth * b.Depth);
-        }
-        public static Box operator /(Box a, Box b)
-        {
-            /*a.Length /= b.Length;
-            a.Height /= b.Height;
-            a.Depth /= b.Depth;
-
-            return a;*/
-
-            return new Box(a.Length / b.Length,
-                        a.Height / b.Height,
-                        a.Depth / b.Depth);
-        }
-        
-
-
         static void Main(string[] args)
         {
-            Box box = new Box(200, 250, 300);
-            Box test = new Box(20, 26, 30);
+            Box box = new Box(10, 10, 10);
+            Box test = new Box(10, 10, 10);
 
-            Console.WriteLine(box > test);
-            Console.WriteLine(box >= test);
+            Console.WriteLine(box);
+            Console.WriteLine(test);
 
-            Console.WriteLine(box < test);
-            Console.WriteLine(box <= test);
-
-            Box divide = box / test;
-            Console.WriteLine(box.ReturnDetails());
-            Console.WriteLine(divide.ReturnDetails());
-
-            Box times = box * test;
-            Console.WriteLine(box.ReturnDetails());
-            Console.WriteLine(times.ReturnDetails());
-
-            Box minus = box - test;
-            Console.WriteLine(box.ReturnDetails());
-
-            box -= test;
-            Console.WriteLine(box.ReturnDetails());
+            Console.WriteLine(box.Equals(test) ? "Same" : "Not same");
 
             Console.ReadLine();
         }
