@@ -14,6 +14,7 @@ namespace OOP
             //Fields.Main3();
             //Task2.Main2();
             //VariableScope.Main5();
+            AbstractClass.Main222();
         }
     }
 }
