@@ -46,6 +46,7 @@
     <Compile Include="Class_Constructor.cs" />
     <Compile Include="Fields.cs" />
     <Compile Include="Method_Function.cs" />
+    <Compile Include="OperatorOverloading.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
