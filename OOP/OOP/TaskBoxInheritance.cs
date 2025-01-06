@@ -9,19 +9,19 @@ namespace OOP
     public class TaskBoxInheritance
     {
         /*
-        * Continue project from Task7
-        * 
-        * Create a Square class
-            * Constructor should call the base constructor
-            * Make all properties the same value
-        * Create a rectangle class
-            * Constructor should call the base constructor
-        * 
-        * In the main:
-            * Create a Box/Square/Rectangle
-            * Test out the operators and make sure they work with custom classes
-            * Also try out ToString() and Equals()
-        */
+       * Continue project from Task7
+       * 
+       * Create a Square class
+           * Constructor should call the base constructor
+           * Make all properties the same value
+       * Create a rectangle class
+           * Constructor should call the base constructor
+       * 
+       * In the main:
+           * Create a Box/Square/Rectangle
+           * Test out the operators and make sure they work with custom classes
+           * Also try out ToString() and Equals()
+       */
         class Box
         {
             private double length, height, depth;
@@ -34,6 +34,12 @@ namespace OOP
                 Length = length;
                 Height = height;
                 Depth = depth;
+            }
+            public Box(double size)
+            {
+                Length = size;
+                Height = size;
+                Depth = size;
             }
 
             public double CheckRange(double value)
@@ -96,15 +102,11 @@ namespace OOP
             }
             public static Box operator *(Box a, Box b)
             {
-                return new Box(a.Length * b.Length,
-                            a.Height * b.Height,
-                            a.Depth * b.Depth);
+                return new Box(a.Length * b.Length, a.Height * b.Height, a.Depth * b.Depth);
             }
             public static Box operator /(Box a, Box b)
             {
-                return new Box(a.Length / b.Length,
-                            a.Height / b.Height,
-                            a.Depth / b.Depth);
+                return new Box(a.Length / b.Length, a.Height / b.Height, a.Depth / b.Depth);
             }
             public override string ToString()
             {
@@ -123,15 +125,29 @@ namespace OOP
                 return false;
             }
         }
+        class Square : Box
+        {
+            public Square(double size) : base(size)
+            {
+            }
+        }
+        class Rectangle : Box
+        {
+            public Rectangle(double length, double height, double depth) : base(length, height, depth)
+            {
+            }
+        }
         static void Main(string[] args)
         {
             Box box = new Box(10, 10, 10);
-            Box test = new Box(10, 10, 10);
+            Square square = new Square(10);
+            Rectangle rectangle = new Rectangle(10, 10, 10);
 
             Console.WriteLine(box);
-            Console.WriteLine(test);
-
-            Console.WriteLine(box.Equals(test) ? "Same" : "Not same");
+            Console.WriteLine(square);
+            Console.WriteLine(box == square ? "Same" : "Not same");
+            Console.WriteLine(box == rectangle ? "Same" : "Not same");
+            Console.WriteLine(square == rectangle ? "Same" : "Not same");
 
             Console.ReadLine();
         }
