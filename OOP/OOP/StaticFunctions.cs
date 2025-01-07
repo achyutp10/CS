@@ -14,7 +14,7 @@ namespace OOP
     }
     abstract class Person : IPerson
     {
-        public string Name { get; set; }
+        public string Name { get; set; } 
         public int Age { get; set; }
         public Person(string name, int age)
         {
