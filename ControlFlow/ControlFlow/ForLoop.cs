@@ -35,6 +35,7 @@ namespace ControlFlow
             for (int i = 1; i <= 10; i++) { 
                 total += i;
             }
+            // Console.WriteLine(total);
             Console.WriteLine(total);
 
 
