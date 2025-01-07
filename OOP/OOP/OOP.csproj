@@ -44,15 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractClass.cs" />
+    <Compile Include="BoxAbstract.cs" />
     <Compile Include="Class_Constructor.cs" />
     <Compile Include="Fields.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="InterfaceBox.cs" />
+    <Compile Include="Interfacee.cs" />
     <Compile Include="Method_Function.cs" />
     <Compile Include="OperatorOverloading.cs" />
     <Compile Include="OR_ToString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticFunctions.cs" />
     <Compile Include="Task2.cs" />
     <Compile Include="TaskBoxInheritance.cs" />
     <Compile Include="VariableScope.cs" />
