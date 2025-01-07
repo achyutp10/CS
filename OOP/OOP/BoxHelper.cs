@@ -9,21 +9,17 @@ namespace OOP
     public class BoxHelper
     {
         /*
-        * Continue project from Task9
-        * 
-        * Create a new interface for the box
-        * Create a new function to calculate the area, return a double
-        * 
-        * Inherit the interface from the box abstract class
-        * Try and fix the errors, where will you define the code for the area?
-            * The area for the Square and Rectangle have different formulas
-            * Where should they go?
-            * Write the functions to actually calculate the area
-                * Square = 6 x (Length * Length)
-                * Rectangle = 2 x (l*d + l*h + d*h)
-        *
-        * After inserting area code, run it in the main and check the output
-        */
+       * Continue project from Task10
+       * 
+       * Creating a box requires the same code, read in 3 values, create the Box
+       * Abstract = no boxes to be created, Square of Rectangle only
+       * Figure out a way to have a helper function to create an instance
+       * 
+       * In main:
+           * Use the new helper function and make sure it works
+           * Create multiple instances, notice the very short code
+               * Main purpose of functions but also static functions can act as helper functions
+       */
         interface IBox
         {
             double calcArea();
@@ -124,6 +120,11 @@ namespace OOP
             }
 
             public abstract double calcArea();
+            public static double ReadDouble(string message)
+            {
+                Console.Write($"Enter {message}: ");
+                return Convert.ToDouble(Console.ReadLine());
+            }
         }
         class Square : Box
         {
@@ -157,6 +158,12 @@ namespace OOP
             {
                 return 6 * (Size * Size);
             }
+
+            public static Square Create()
+            {
+                double size = Box.ReadDouble("size");
+                return new Square(size);
+            }
         }
         class Rectangle : Box
         {
@@ -183,21 +190,30 @@ namespace OOP
 
                 return 2 * ((Length * Depth) + (Length * Height) + (Depth * Height));
             }
+            public static Rectangle Create()
+            {
+                double length = Box.ReadDouble("length");
+                double height = Box.ReadDouble("height");
+                double depth = Box.ReadDouble("depth");
+
+                return new Rectangle(length, height, depth);
+            }
         }
         static void Main(string[] args)
         {
-            Square square = new Square(10);
-            Rectangle rectangle = new Rectangle(15, 20, 25);
+            Rectangle rectangle = Rectangle.Create();
+            Console.WriteLine(rectangle);
 
-            Console.WriteLine($"{square.calcArea()}m²");
-            Console.WriteLine($"{rectangle.calcArea()}m²");
+            Square square = Square.Create();
+            Console.WriteLine(square);
+
+            Rectangle rectangle1 = Rectangle.Create();
+            Console.WriteLine(rectangle);
+
+            Square square1 = Square.Create();
+            Console.WriteLine(square1);
 
             Console.ReadLine();
-        }
-        static double ReadDouble(string message)
-        {
-            Console.Write($"Enter {message}: ");
-            return Convert.ToDouble(Console.ReadLine());
         }
     }
 }
