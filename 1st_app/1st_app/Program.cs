@@ -26,8 +26,8 @@ namespace _1st_app
 
             //Console.WriteLine("Hello world");
             //Console.ReadLine();
-            int age1 = 22; // initializing, declaring and assigning in same line 
-            int age3 = -22; // initializing, declaring and assigning in same line
+            int age1 = 25; // initializing, declaring and assigning in same line 
+            int age3 = -25; // initializing, declaring and assigning in same line
             int age; // initializing, declaring
             age = 22; // assigning
             long bigNmber = 9000000000L;
