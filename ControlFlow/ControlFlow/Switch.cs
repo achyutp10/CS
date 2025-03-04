@@ -21,10 +21,7 @@ namespace ControlFlow
             //else if (day == 1) {
             //    Console.WriteLine("Monday");
             //}
-
-            /*
             
-            */
             /*
             switch (day) {
                 case 0:
